@@ -1,8 +1,18 @@
 {
-  "name": "Joe Customer",
-  "address": "123 Main Street",
-  "city": "Philadelphia",
-  "state": "PA",
-  "zipCode": "19101"
+  "customers": [
+    "id": 1,
+    "name": "Joe Customer",
+    "address": "123 Main Street",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zipCode": "19101"
+  ],
+  "jobs": [
+    "id": 1,
+    "type": "X1 Installation",
+    "date": "4/1/2022",
+    "startTime": "2:30PM",
+    "endTime": "3:30PM"
+  ]
 }
       
